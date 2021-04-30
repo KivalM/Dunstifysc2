@@ -1,0 +1,64 @@
+  12	  0:00	  SCV	  
+  13	  0:12	  SCV	  
+  14	  0:16	  Supply Depot	  
+  14	  0:24	  SCV	  
+  15	  0:38	  SCV	  
+  15	  0:40	  Barracks	  
+  15	  0:42	  Refinery	  
+  16	  0:50	  SCV	  
+  17	  1:02	  SCV	  
+  18	  1:14	  SCV	  
+  19	  1:27	  Orbital Command, Reaper	  
+  20	  1:37	  Command Center	  
+  20	  1:49	  Barracks	  
+  20	  1:53	  SCV	  
+  21	  1:59	  Barracks Reactor	  
+  21	  2:05	  SCV	  
+  21	  2:07	  Supply Depot	  Rally SCV for Supply Depot
+  22	  2:17	  SCV	  
+  22	  2:18	  Refinery	  Rally SCV for Refinery; build earlier if skipping SCV scout
+  23	  2:27	  Factory	  
+  24	  2:35	  Marine x2	  
+  26	  2:39	  Barracks Tech Lab	  
+  27	  2:48	  Orbital Command	  
+  27	  2:55	  Marine x2	  
+  30	  2:59	  Stimpack	  Do not make Marine yet with this Barracks.
+  31	  3:15	  Marine x3	  
+  36	  3:21	  Starport	  
+  36	  3:23	  Factory Reactor	  
+  37	  3:33	  Supply Depot	  
+  38	  3:36	  Marine x3	  
+  42	  3:45	  Supply Depot	  
+  49	  4:03	  Medivac x2	  4:02 is possible with an SCV scout. 3:59 is possible with skipped SCV scout.
+  53	  4:15	  Supply Depot	  
+  59	  4:29	  Command Center	  Halt all Marine production after 16 Marines to afford third CC.
+  61	  4:41	  Combat Shield	  @100% Stimpack
+  65	  4:47	  Medivac	  
+  69	  5:00	  Widow Mine	  
+  75	  5:07	  Engineering Bay x2	  
+  77	  5:15	  Refinery x2	  
+  77	  5:21	  Factory Reactor	  
+  79	  5:29	  Barracks	  
+  79	  5:33	  Terran Infantry Weapons Level 1	  
+  79	  5:34	  Terran Infantry Armor Level 1	  
+  82	  5:38	  Starport Reactor	  
+  82	  5:43	  Orbital Command	  
+  82	  5:48	  Barracks x2	  
+  86	  6:02	  Widow Mine x2	  
+  91	  6:04	  Orbital Command	  
+  93	  6:15	  Medivac x2, Armory	  
+  106	  6:39	  Barracks Reactor x2	  
+  116	  6:56	  Medivac x2	  
+  122	  7:03	  Widow Mine x2	  
+  122	  7:07	  Factory	  
+  128	  7:11	  Refinery	  
+  140	  7:29	  Widow Mine	  
+  147	  7:41	  Marauder	  
+  147	  7:43	  Widow Mine	  
+  154	  7:47	  Medivac x2	  
+  158	  7:51	  Factory Tech Lab	  
+  158	  7:53	  Widow Mine	  
+  162	  8:02	  Marauder	  
+  170	  8:06	  Widow Mine	  
+  174	  8:12	  Widow Mine	  
+  174	  8:16	  Command Center	 a
